@@ -7,6 +7,6 @@ Python 3.7
 # Usage
 Clone the repository, navigate to src, and run main.py:
 ```
-cd SortableChallenge/src/
+cd VitalCodingAssignment/src/
 python main.py
 ```
