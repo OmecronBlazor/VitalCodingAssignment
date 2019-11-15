@@ -1,5 +1,5 @@
 # VitalCodingAssignment
-The main objective of this project is to group a list of patient demographic information by their name.
+The main objective of this assignment is to group a list of patient demographic information by their name.
 
 # Requires
 Python 3.7
