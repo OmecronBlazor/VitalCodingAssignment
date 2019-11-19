@@ -37,7 +37,7 @@ class PatientInfoList:
         dob = info[3].strip()
 
         # Populate the info object with the extracted information
-        patient_info_obj = PatientInfo(_id, f_name, l_name, m_name, sex, dob, line.rstrip())
+        patient_info_obj = PatientInfo(_id, f_name, l_name, m_name, sex, dob, line)
 
         # The key for each element in the hash table will be in the format '<last_name>^<first_name>' all lowercase
         # This will resolve the scenario for grouping patient info with the same name with lower/upper case characters
